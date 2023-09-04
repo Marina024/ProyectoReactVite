@@ -1,0 +1,43 @@
+.fondoheader{
+    background-image: url('../../assets/header-back.jpg');
+    min-height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    opacity: 90%;
+}
+
+.container-header{
+    position: absolute;
+    margin: 20px;
+    width: auto;
+}
+
+.navbar{
+    overflow: hidden;
+    margin: 30px;
+    margin-top: 0px;
+    padding: 30px;
+    list-style: none;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: #f2f2f2;
+    text-align: center;
+    align-items: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.presentacion{
+    color: white;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}

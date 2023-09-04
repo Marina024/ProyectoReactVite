@@ -1,0 +1,154 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.project1{
+    background-color: beige;
+    width: 80%;
+    display: flex;
+    justify-content: left;
+    margin-top: 10%;
+    padding: 30px;
+}
+
+.izquierdo img{
+    max-width: 250%;
+    margin:  -60px auto 0;
+    margin-left: 5%;
+}
+
+.izquierdo p{
+    margin-left: 5%;
+}
+
+.derecho{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    padding-left: 400px;
+    
+}
+
+.botonreadme {
+    background-color: rgb(214, 214, 6);
+    color: white;
+    width: 130px;
+    border: none;
+    border-radius: none;
+}
+
+.project2{
+    background-color: beige;
+    width: 80%;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 10%;
+    padding: 30px;
+}
+
+.derecho2 img{
+    max-width: 250%;
+    margin:  -55px auto 0;
+    margin-left: 5%;
+}
+
+.izquierdo2{
+    margin-top: 0%;
+    padding-left: 30%;
+    
+}
+
+/* Sección cards */
+.cards1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 30px;
+    margin-top: 10%;
+}
+
+.cards1 div img{
+    margin: 10px;
+    margin-bottom: 0;
+    padding: 10px;
+    width: 200px;
+    height: 250px;
+}
+
+.cardtext{
+    margin: 10px;
+    margin-top: 0;
+    padding: 10px;
+    width: 200px;
+}
+
+.btn-slider{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 110px;
+}
+
+.btn-card{
+    background-color: rgb(214, 214, 6);
+    border-radius: none;
+    border: none;
+    font-size: 20 px;
+    color: white;
+    padding: 15px 32px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.w{
+    background-color: white;
+    color: black;
+}
+
+/* Seccion collage */
+.container-collage{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 30px;
+    margin: 10px;
+    margin-top: 10%;
+}
+
+.container-collage div img{
+    margin-top: 0px;
+    padding: 0px;
+    width: 400px;
+    height: 350px;
+}
+
+.text-collage{
+    text-align: left;
+    margin-top: 0px;
+    padding: 0px;
+    width: 400px;
+    height: 350px;
+}
+
+.y{
+    background-color: rgb(214, 214, 6);
+    color: white;
+}
+
+.txt{
+    margin-left: 40px;
+    margin-right: 50px;
+    padding-top: 70px;
+}
+
+.btn-collage{
+    background-color: rgb(214, 214, 6);
+    color: white;
+    border: none;
+    width: 70px;
+}

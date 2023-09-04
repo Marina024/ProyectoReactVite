@@ -1,0 +1,38 @@
+.footer{
+    background-image: url('../../assets/fondofooter.jpg');
+    color: white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 65px;
+    margin-top: 10%;
+}
+
+.footer div{
+    margin: 30px;
+    margin-bottom: 0;
+    padding: 30px;
+    width: 250px;
+    height: 250px;
+}
+
+.footer a{
+    justify-content: space-around;
+    color: rgb(27, 27, 27);
+    font-size: x-large;
+}
+
+.icon{
+    font-size: 10px;
+}
+
+.btn-footer{
+    background-color: rgb(214, 214, 6);
+    color: white;
+    border-radius: 40px;
+    border: none;
+    width: 50px;
+    height: 50px;
+    margin-right: -50px;
+}
