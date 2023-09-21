@@ -29,7 +29,7 @@ const Project = () => {
                     <h1>PROJECT1</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         Reiciendis, earum numquam? Qui, ducimus,
-                        voluptates recusandae suscipit exercitationem eligendi minus voluptas ad nam atque consequuntur.</p>
+                        voluptates recusandae suscipit.</p>
                     <button className='botonreadme'>
                         <a href='#' className='read'>READ MORE</a>
                     </button>
@@ -42,7 +42,7 @@ const Project = () => {
                     <h1>PROJECT2</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         Reiciendis, earum numquam? Qui, ducimus,
-                        voluptates recusandae suscipit exercitationem eligendi minus voluptas ad nam atque consequuntur.</p>
+                        voluptates recusandae suscipit.</p>
                     <button className='botonreadme'>
                         <a href='#' className='read'>READ MORE</a>
                     </button>

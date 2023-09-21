@@ -46,10 +46,16 @@
     height: 300px;
 }
 
+i{
+    padding: 7px;
+    color: lightslategray;
+    text-decoration: none;
+}
+
 .boton-readmore{
     background-color: rgb(214, 214, 6);
     color: white;
     border: none;
-    width: 100px;
+    width: 130px;
     height: 50px;
 }
