@@ -32,10 +32,15 @@ body{
 
 .botonreadme {
     background-color: rgb(214, 214, 6);
-    color: white;
     width: 130px;
+    height: 50px;
     border: none;
     border-radius: none;
+    margin-top: 15px;
+}
+.read{
+    color: white;
+    text-decoration: none;
 }
 
 .project2{

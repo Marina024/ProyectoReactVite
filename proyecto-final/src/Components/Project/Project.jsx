@@ -31,7 +31,7 @@ const Project = () => {
                         Reiciendis, earum numquam? Qui, ducimus,
                         voluptates recusandae suscipit exercitationem eligendi minus voluptas ad nam atque consequuntur.</p>
                     <button className='botonreadme'>
-                        <a href='#'>Read more</a>
+                        <a href='#' className='read'>READ MORE</a>
                     </button>
                 </div>
             </div>
@@ -44,7 +44,7 @@ const Project = () => {
                         Reiciendis, earum numquam? Qui, ducimus,
                         voluptates recusandae suscipit exercitationem eligendi minus voluptas ad nam atque consequuntur.</p>
                     <button className='botonreadme'>
-                        <a href='#'>Read more</a>
+                        <a href='#' className='read'>READ MORE</a>
                     </button>
                 </div>
 
