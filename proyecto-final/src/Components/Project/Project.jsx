@@ -37,7 +37,7 @@ const Project = () => {
             </div>
 
             <div className='project2'>
-                <div className='derecho'>
+                <div className='izquierdo2'>
                     <h3>Intuitive and easy</h3>
                     <h1>PROJECT2</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -48,7 +48,7 @@ const Project = () => {
                     </button>
                 </div>
 
-                <div className='izquierdo'>
+                <div className='derecho2'>
                     <img src= { Project2 } alt='' width={700} />
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem maxime officiis.</p>
                 </div>

@@ -38,10 +38,9 @@ const Footer = () => {
                         <h2>San Diego</h2>
                         <i className='icon'><FaPhone style={{color: "#ffffff"}}/></i><p>1-677-124-44225</p>
                         <i className='icon'><FaEnvelope style={{color: "#ffffff"}}/></i><p>office@bridge.com</p>
-                        <i className='icon'><FaIdCard style={{color: "#ffffff"}}/></i><p>184 Collins St</p>
-                    
-                        
+                        <i className='icon'><FaIdCard style={{color: "#ffffff"}}/></i><p>184 Collins St</p> 
                 </div>
+
                 <button className='btn-footer'>
                             <a href='#'><i>< FaChevronUp style={{color: "#ffffff"}} /></i></a>
                         </button> 
