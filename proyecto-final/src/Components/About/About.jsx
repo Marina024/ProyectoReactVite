@@ -13,19 +13,19 @@ const About = () => {
                     <img src= {Designer} />
                     <p>You can also follow him on:</p>
                         <a href='#'>
-                            <i>< FaGooglePlusG /></i>
+                            <i className='icona'>< FaGooglePlusG /></i>
                         </a>
                         <a href='#'>
-                            <i><FaLinkedinIn/></i>
+                            <i className='icona'><FaLinkedinIn/></i>
                         </a>
                         <a href='#'>
-                            <i><FaFacebookF/></i>
+                            <i className='icona'><FaFacebookF/></i>
                         </a>
                         <a href='#'>
-                            <i><FaInstagram/></i>
+                            <i className='icona'><FaInstagram/></i>
                         </a>
                         <a href='#'>
-                            <i><FaTwitter/></i>
+                            <i className='icona'><FaTwitter/></i>
                         </a>
                 </div>
             
@@ -45,19 +45,19 @@ const About = () => {
                     <img src= {Architect} />
                     <p>You can also follow her on:</p>
                     <a href='#'>
-                        <i>< FaGooglePlusG /></i>
+                        <i className='icona'>< FaGooglePlusG /></i>
                         </a>
                         <a href='#'>
-                            <i><FaLinkedinIn/></i>
+                            <i className='icona'><FaLinkedinIn/></i>
                         </a>
                         <a href='#'>
-                            <i><FaFacebookF/></i>
+                            <i className='icona'><FaFacebookF/></i>
                         </a>
                         <a href='#'>
-                            <i><FaInstagram/></i>
+                            <i className='icona'><FaInstagram/></i>
                         </a>
                         <a href='#'>
-                            <i><FaTwitter/></i>
+                            <i className='icona'><FaTwitter/></i>
                         </a>
                 </div>
 

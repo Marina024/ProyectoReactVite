@@ -7,7 +7,7 @@ const Footer = () => {
         <footer className='footer'>
                 <div>
                         <h4>Get in touch with us</h4>
-                        <h1>CONTACT US</h1>
+                        <h1 className='contactus'>CONTACT US</h1>
                 
                         <p>You can also follow us on:</p>
                         <a href='#'>
@@ -40,10 +40,11 @@ const Footer = () => {
                         <i className='icon'><FaEnvelope style={{color: "#ffffff"}}/></i><p>office@bridge.com</p>
                         <i className='icon'><FaIdCard style={{color: "#ffffff"}}/></i><p>184 Collins St</p>
                     
-                        <button className='btn-footer'>
+                        
+                </div>
+                <button className='btn-footer'>
                             <a href='#'><i>< FaChevronUp style={{color: "#ffffff"}} /></i></a>
                         </button> 
-                </div>
         </footer>
         </>  
     )

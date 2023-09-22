@@ -46,10 +46,11 @@
     height: 300px;
 }
 
-i{
+.icona{
     padding: 7px;
     color: lightslategray;
     text-decoration: none;
+    font-size: 20px;
 }
 
 .boton-readmore{
